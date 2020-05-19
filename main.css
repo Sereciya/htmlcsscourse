@@ -26,6 +26,7 @@ logo{
 width: 130px;
 }
 
+
 .hide-mobile{
 display: none;
 }
@@ -216,6 +217,10 @@ nav ul li a:hover{
         display: block;
         margin: 0 auto 13% auto;
     }
+    .hide-desktop{
+        display: none;
+        }
+
     .hide.show-desktop{
         display: none;
     }
